@@ -1,0 +1,28 @@
+name: ThisGayLife
+favicon: null
+layout_spectrum: 0.6139811770990491
+typography_spectrum: 0.9046804497484118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5194631768390536
+  lightness: 0.021749837324023247
+  saturation: 0.18317450699396431
+  rhythmicContrast: 0.49804852483794093
+purpose: []
