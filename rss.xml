@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ThisGayLife]]></title>
         <description><![CDATA[ThisGayLife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thisgaylife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 22:34:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 15:18:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thisgaylife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf74ca10-9961-49c4-b618-aa134e5a69f5.jpg">]]></description>
-            <link>undefinedlkjdlikjc/index.html</link>
+            <link>https://thegrid.ai/thisgaylife/lkjdlikjc/index.html</link>
             <guid isPermaLink="false">3cced37e-602b-4109-af87-8893cffa1bfc</guid>
-            <pubDate>Mon, 04 Apr 2016 22:34:01 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 15:17:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
